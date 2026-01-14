@@ -1,4 +1,4 @@
-## Hi there 👋
+![logo](https://github.com/ridashafqaat/ridashafqaat/blob/main/banner%20top.gif)
 
 <h1 align="center">Hi 👋, I'm Mehwish Mansha</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
