@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **E-Project Aptech**
 
-- 🌱 I’m currently learning **JQuery**
+- 🌱 I’m currently learning **SEO**
 
-- 💬 Ask me about **HTML5 | CSS3 | JavaScript | jQuery**
+- 💬 Ask me about **HTML5 | CSS3 | JavaScript | jQuery **
 
 - 📫 How to reach me **mehwishmansha65@gmail.com**
 
